@@ -31,6 +31,8 @@ Puedes clonar este repositorio desde <b>GitHub: </b>[<b>alfonsochb/prueba-bts</b
     ```txt
     prueba-bts\app\ModelClass.php
     ```
+	
+7. Visualice el resultado en un navegador web
 
 ## Reconocimiento
 Autor: [Alfonso Chávez Baquero](https://github.com/alfonsochb?target=_blank)
