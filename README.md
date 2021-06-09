@@ -1,4 +1,4 @@
-## simple-api-rest-php
+## Prueba práctica conocimientos PHP
 <p>Este proyecto es una prueba de conocimientos PHP.</p><br>
 
 
