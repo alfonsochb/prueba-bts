@@ -1,0 +1,20 @@
+{
+    "name": "acer/bts-prueba",
+    "description": "Prueba desarrollador PHP senior",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Alfonso Chávez Baquero",
+            "email": "alfonso.chb@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "Config\\": "config/"
+        }
+    }
+}
